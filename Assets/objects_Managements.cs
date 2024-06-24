@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Objects_Management : MonoBehaviour
+public class objects_Managements : MonoBehaviour
 {
     public GameObject[] objects;
     int currentIndex = -1;
